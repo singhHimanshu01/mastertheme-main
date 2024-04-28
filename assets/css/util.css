@@ -1,0 +1,14 @@
+.fix_testimonial_height {
+  min-height: 240px !important;
+}
+
+.size_adjust_header {
+  height: 100px;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+img {
+  object-fit: cover;
+}
