@@ -12,9 +12,7 @@ h3{
 body,
 input,
 textarea {
-  font-family: 'Lato Regular', sans-serif;
-
-}
+  font-family: 'Lato Regular', sans-serif;}
 p{
   color: whitesmoke;
 }
@@ -30,9 +28,6 @@ p{
   align-items: center;
   justify-content: center;
 }
-
-
-
 .form {
   width: 100%;
   max-width: 820px;
@@ -296,10 +291,6 @@ h4.a{
   opacity: 0.3;
 }
 
-
-
-
-
 @media (max-width: 850px) {
   .form {
     grid-template-columns: 1fr;
@@ -322,9 +313,7 @@ h4.a{
   .contact-info:after{
     width: min-content;
   }
-
   
-
   .text {
     margin: 1rem 0 1.5rem 0;
   }
